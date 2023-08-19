@@ -1,0 +1,82 @@
+name: バグレポート（日本語）
+description: Modern Font Pack - Caxton Editionのバグレポートを提出する
+title: "[Bug] "
+labels: ["Bug", "Pending"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        このバグレポートにご記入いただき、ありがとうございます。
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: バグの説明
+      description: 発生したバグ情報を詳しく説明してください。
+      placeholder: 発生したバグを教えてください。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 再現する手順
+      description: バグを引き起こしたステップを説明してください。
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+      render: bash
+    validations:
+      required: true
+  - type: input
+    id: expected-behavior
+    attributes:
+      label: 予想される動作
+      description: 希望する効果について簡単に説明してください。
+    validations:
+      required: true
+  - type: input
+    id: actual-behavior
+    attributes:
+      label: 実際の動作
+      description: 実際の結果について簡単に説明してください。
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Modern Font Pack - Caxton Editionのバージョン
+      description: 現在使用しているModern Font Pack - Caxton Editionのバージョンは何ですか？（例：1200。リソースパックのタイトルの4桁の数字から検出されます。使用しているバージョンがこちらにリストされていない場合、使用しているバージョンは古くなっています。最新バージョンに更新して、バグの再現を再試行してください。）
+      options:
+        - 0800
+        - 0900
+        - 1000
+        - 1100
+        - 1200
+    validations:
+      required: true
+  - type: input
+    id: game-version
+    attributes:
+      label: プレイしているゲームバージョンは何ですか？
+      description: 影響を受けるゲームのバージョンを入力してください。
+    validations:
+      required: true
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: 使用しているデバイスのシステムは何ですか？
+      options:
+        - Windows
+        - Linux
+    validations:
+      required: false
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: 追加情報
+      description: ゲームがクラッシュした場合は、必ずゲームログまたはクラッシュレポートをこちらに提供してください。
+      placeholder: |
+        ...
+      render: bash
+    validations:
+      required: false

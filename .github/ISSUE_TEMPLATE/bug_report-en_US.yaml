@@ -1,0 +1,82 @@
+name: Bug Report (English)
+description: Submit Modern Font Pack - Caxton Edition bug report
+title: "[Bug] "
+labels: ["Bug", "Pending"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Description of the Bug
+      description: Please describe in detail the bug information that occurred.
+      placeholder: Tell us what bug occurred.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: Please describe the step that triggered the bug.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+      render: bash
+    validations:
+      required: true
+  - type: input
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: Please give a brief description of the desired effect.
+    validations:
+      required: true
+  - type: input
+    id: actual-behavior
+    attributes:
+      label: Actual Behavior
+      description: Please give a brief description of the actual result.
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Modern Font Pack - Caxton Edition Version
+      description: What version of Modern Font Pack - Caxton Edition are you currently using? (e.g. 1200, found from the four-digit number in the title of the resource pack. If the version you are using is not listed here, the version you are using is out of date. Please update to the latest version and try to reproduce the bug again.)
+      options:
+        - 0800
+        - 0900
+        - 1000
+        - 1100
+        - 1200
+    validations:
+      required: true
+  - type: input
+    id: game-version
+    attributes:
+      label: What is the game version you are playing?
+      description: Please enter the affected game version(s).
+    validations:
+      required: true
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: What is the system of the device you are using?
+      options:
+        - Windows
+        - Linux
+    validations:
+      required: false
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: If the game crashes, be sure to provide the game log or crash report here.
+      placeholder: |
+        ...
+      render: bash
+    validations:
+      required: false
