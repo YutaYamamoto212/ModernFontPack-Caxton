@@ -15,11 +15,10 @@ This is Modern Font Pack - Caxton Edition, which provides better font smoothing 
 
 # Known limitations  
 1. When loading a resource pack for the **first time**, it may take a few minutes because Caxton mod needs to cache the resource pack's font files.  
-2. ~~Many characters do not have *italic* variants, which causes those characters that appear in *italic text* to always be displayed in regular variants.~~ Caxton version 0.5.6 has fixed this issue, and the `X01` version of the resource pack has also been adapted to this Caxton version.
-3. Similar to the previous point, some characters do not have a **bold** variant, which causes those characters that appear in **bold text** to always be displayed in regular variants.  
-4. ~~Doing any of the following while this resource pack is loaded may **crash the JVM**, thus causing **all resource pack be deactivated**:~~  
-  - ~~Changing the mipmap level.~~  
-  - ~~Changing the language.~~  
-  - ~~Activating or deactivating resource packs, or changing the order in which resource packs are sorted.~~  
-  - ~~Reloading resource packs.~~  
-  Caxton version 0.5.0 has fixed this issue.
+2. Some characters may not have *italic* variants, which causes those characters that appear in *italic text* to always be displayed in regular variants. This limitation exists in Caxton versions 0.5.5 and below, and 0.7.0 and above, but not in versions 0.5.6 to 0.6.0.  
+3. Similar to the previous point, some characters do not have a **bold** variant, which causes those characters that appear in **bold text** to always be displayed in regular variants. This limitation exists in all versions of Caxton.  
+4. In Caxton versions 0.4.12 and below, doing any of the following while this resource pack is loaded may **crash the JVM**, thus causing **all resource pack be deactivated**:  
+  - Changing the mipmap level.  
+  - Changing the language.  
+  - Activating or deactivating resource packs, or changing the order in which resource packs are sorted.  
+  - Reloading resource packs.  

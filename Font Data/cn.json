@@ -5,22 +5,22 @@
       "regular": {
         "file": "caxton:noto_sans_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_medium_italic.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_black_italic.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       }
     },
 	{
@@ -28,23 +28,23 @@
       "regular": {
         "file": "caxton:noto_emoji_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_emoji_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_emoji_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_emoji_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -53,23 +53,23 @@
       "regular": {
         "file": "caxton:noto_sans_sc_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_sc_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_sc_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_sc_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -78,23 +78,23 @@
       "regular": {
         "file": "caxton:noto_sans_tc_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_tc_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_tc_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_tc_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -103,23 +103,23 @@
       "regular": {
         "file": "caxton:noto_sans_hk_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_hk_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_hk_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_hk_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -128,23 +128,23 @@
       "regular": {
         "file": "caxton:noto_sans_jp_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_jp_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_jp_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_jp_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -153,23 +153,23 @@
       "regular": {
         "file": "caxton:noto_sans_kr_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_kr_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_kr_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_kr_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -178,23 +178,23 @@
       "regular": {
         "file": "caxton:noto_kufi_arabic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_kufi_arabic_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_kufi_arabic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_kufi_arabic_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -203,23 +203,23 @@
       "regular": {
         "file": "caxton:noto_naskh_arabic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_naskh_arabic_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_naskh_arabic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_naskh_arabic_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -228,23 +228,23 @@
       "regular": {
         "file": "caxton:noto_nastaliq_urdu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_nastaliq_urdu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_nastaliq_urdu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_nastaliq_urdu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -253,23 +253,23 @@
       "regular": {
         "file": "caxton:noto_sans_adlam_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_adlam_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_adlam_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_adlam_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -278,23 +278,23 @@
       "regular": {
         "file": "caxton:noto_sans_anatolian_hieroglyphs_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_anatolian_hieroglyphs_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_anatolian_hieroglyphs_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_anatolian_hieroglyphs_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -303,23 +303,23 @@
       "regular": {
         "file": "caxton:noto_sans_arabic_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_arabic_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_arabic_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_arabic_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -328,23 +328,23 @@
       "regular": {
         "file": "caxton:noto_sans_armenian_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_armenian_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_armenian_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_armenian_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -353,23 +353,23 @@
       "regular": {
         "file": "caxton:noto_sans_avestan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_avestan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_avestan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_avestan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -378,23 +378,23 @@
       "regular": {
         "file": "caxton:noto_sans_balinese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_balinese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_balinese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_balinese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -403,23 +403,23 @@
       "regular": {
         "file": "caxton:noto_sans_bamum_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_bamum_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_bamum_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_bamum_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -428,23 +428,23 @@
       "regular": {
         "file": "caxton:noto_sans_batak_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_batak_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_batak_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_batak_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -453,23 +453,23 @@
       "regular": {
         "file": "caxton:noto_sans_bengali_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_bengali_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_bengali_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_bengali_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -478,23 +478,23 @@
       "regular": {
         "file": "caxton:noto_sans_brahmi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_brahmi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_brahmi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_brahmi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -503,23 +503,23 @@
       "regular": {
         "file": "caxton:noto_sans_buginese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_buginese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_buginese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_buginese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -528,23 +528,23 @@
       "regular": {
         "file": "caxton:noto_sans_buhid_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_buhid_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_buhid_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_buhid_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -553,23 +553,23 @@
       "regular": {
         "file": "caxton:noto_sans_canadian_aboriginal_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_canadian_aboriginal_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_canadian_aboriginal_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_canadian_aboriginal_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -578,23 +578,23 @@
       "regular": {
         "file": "caxton:noto_sans_carian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_carian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_carian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_carian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -603,23 +603,23 @@
       "regular": {
         "file": "caxton:noto_sans_chakma_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_chakma_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_chakma_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_chakma_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -628,23 +628,23 @@
       "regular": {
         "file": "caxton:noto_sans_cham_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_cham_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_cham_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_cham_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -653,23 +653,23 @@
       "regular": {
         "file": "caxton:noto_sans_cherokee_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_cherokee_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_cherokee_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_cherokee_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -678,23 +678,23 @@
       "regular": {
         "file": "caxton:noto_sans_coptic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_coptic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_coptic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_coptic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -703,23 +703,23 @@
       "regular": {
         "file": "caxton:noto_sans_cuneiform_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_cuneiform_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_cuneiform_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_cuneiform_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -728,23 +728,23 @@
       "regular": {
         "file": "caxton:noto_sans_cypriot_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_cypriot_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_cypriot_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_cypriot_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -753,23 +753,23 @@
       "regular": {
         "file": "caxton:noto_sans_deseret_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_deseret_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_deseret_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_deseret_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -778,23 +778,23 @@
       "regular": {
         "file": "caxton:noto_sans_devanagari_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_devanagari_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_devanagari_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_devanagari_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -803,23 +803,23 @@
       "regular": {
         "file": "caxton:noto_sans_egyptian_hieroglyphs_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_egyptian_hieroglyphs_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_egyptian_hieroglyphs_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_egyptian_hieroglyphs_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -828,23 +828,23 @@
       "regular": {
         "file": "caxton:noto_sans_ethiopic_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_ethiopic_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_ethiopic_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_ethiopic_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -853,23 +853,23 @@
       "regular": {
         "file": "caxton:noto_sans_georgian_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_georgian_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_georgian_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_georgian_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -878,23 +878,23 @@
       "regular": {
         "file": "caxton:noto_sans_glagolitic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_glagolitic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_glagolitic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_glagolitic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -903,23 +903,23 @@
       "regular": {
         "file": "caxton:noto_sans_gothic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_gothic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_gothic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_gothic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -928,23 +928,23 @@
       "regular": {
         "file": "caxton:noto_sans_gujarati_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_gujarati_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_gujarati_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_gujarati_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -953,23 +953,23 @@
       "regular": {
         "file": "caxton:noto_sans_gurmukhi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_gurmukhi_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_gurmukhi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_gurmukhi_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -978,23 +978,23 @@
       "regular": {
         "file": "caxton:noto_sans_hanunoo_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_hanunoo_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_hanunoo_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_hanunoo_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1003,23 +1003,23 @@
       "regular": {
         "file": "caxton:noto_sans_hebrew_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_hebrew_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_hebrew_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_hebrew_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1028,23 +1028,23 @@
       "regular": {
         "file": "caxton:noto_sans_imperial_aramaic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_imperial_aramaic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_imperial_aramaic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_imperial_aramaic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1053,23 +1053,23 @@
       "regular": {
         "file": "caxton:noto_sans_inscriptional_pahlavi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_inscriptional_pahlavi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_inscriptional_pahlavi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_inscriptional_pahlavi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1078,23 +1078,23 @@
       "regular": {
         "file": "caxton:noto_sans_inscriptional_parthian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_inscriptional_parthian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_inscriptional_parthian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_inscriptional_parthian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1103,23 +1103,23 @@
       "regular": {
         "file": "caxton:noto_sans_javanese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_javanese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_javanese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_javanese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1128,23 +1128,23 @@
       "regular": {
         "file": "caxton:noto_sans_kaithi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_kaithi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_kaithi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_kaithi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1153,23 +1153,23 @@
       "regular": {
         "file": "caxton:noto_sans_kannada_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_kannada_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_kannada_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_kannada_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1178,23 +1178,23 @@
       "regular": {
         "file": "caxton:noto_sans_kayah_li_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_kayah_li_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_kayah_li_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_kayah_li_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1203,23 +1203,23 @@
       "regular": {
         "file": "caxton:noto_sans_kharoshthi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_kharoshthi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_kharoshthi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_kharoshthi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1228,23 +1228,23 @@
       "regular": {
         "file": "caxton:noto_sans_khmer_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_khmer_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_khmer_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_khmer_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1253,23 +1253,23 @@
       "regular": {
         "file": "caxton:noto_sans_lao_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_lao_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_lao_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_lao_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1278,23 +1278,23 @@
       "regular": {
         "file": "caxton:noto_sans_lepcha_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_lepcha_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_lepcha_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_lepcha_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1303,23 +1303,23 @@
       "regular": {
         "file": "caxton:noto_sans_limbu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_limbu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_limbu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_limbu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1328,23 +1328,23 @@
       "regular": {
         "file": "caxton:noto_sans_linear_b_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_linear_b_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_linear_b_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_linear_b_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1353,23 +1353,23 @@
       "regular": {
         "file": "caxton:noto_sans_lisu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_lisu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_lisu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_lisu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1378,23 +1378,23 @@
       "regular": {
         "file": "caxton:noto_sans_lycian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_lycian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_lycian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_lycian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1403,23 +1403,23 @@
       "regular": {
         "file": "caxton:noto_sans_lydian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_lydian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_lydian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_lydian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1428,23 +1428,23 @@
       "regular": {
         "file": "caxton:noto_sans_malayalam_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_malayalam_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_malayalam_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_malayalam_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1453,23 +1453,23 @@
       "regular": {
         "file": "caxton:noto_sans_mandaic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_mandaic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_mandaic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_mandaic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1478,23 +1478,23 @@
       "regular": {
         "file": "caxton:noto_sans_math_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_math_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_math_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_math_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1503,23 +1503,23 @@
       "regular": {
         "file": "caxton:noto_sans_meetei_mayek_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_meetei_mayek_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_meetei_mayek_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_meetei_mayek_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1528,23 +1528,23 @@
       "regular": {
         "file": "caxton:noto_sans_mongolian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_mongolian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_mongolian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_mongolian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1553,23 +1553,23 @@
       "regular": {
         "file": "caxton:noto_sans_myanmar_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_myanmar_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_myanmar_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_myanmar_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1578,23 +1578,23 @@
       "regular": {
         "file": "caxton:noto_sans_n_ko_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_n_ko_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_n_ko_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_n_ko_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1603,23 +1603,23 @@
       "regular": {
         "file": "caxton:noto_sans_new_tai_lue_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_new_tai_lue_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_new_tai_lue_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_new_tai_lue_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1628,23 +1628,23 @@
       "regular": {
         "file": "caxton:noto_sans_ogham_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_ogham_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_ogham_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_ogham_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1653,23 +1653,23 @@
       "regular": {
         "file": "caxton:noto_sans_ol_chiki_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_ol_chiki_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_ol_chiki_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_ol_chiki_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1678,23 +1678,23 @@
       "regular": {
         "file": "caxton:noto_sans_old_italic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_old_italic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_old_italic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_old_italic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1703,23 +1703,23 @@
       "regular": {
         "file": "caxton:noto_sans_old_persian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_old_persian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_old_persian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_old_persian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1728,23 +1728,23 @@
       "regular": {
         "file": "caxton:noto_sans_old_south_arabian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_old_south_arabian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_old_south_arabian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_old_south_arabian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1753,23 +1753,23 @@
       "regular": {
         "file": "caxton:noto_sans_old_turkic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_old_turkic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_old_turkic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_old_turkic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1778,23 +1778,23 @@
       "regular": {
         "file": "caxton:noto_sans_oriya_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_oriya_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_oriya_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_oriya_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1803,23 +1803,23 @@
       "regular": {
         "file": "caxton:noto_sans_osage_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_osage_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_osage_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_osage_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1828,23 +1828,23 @@
       "regular": {
         "file": "caxton:noto_sans_osmanya_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_osmanya_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_osmanya_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_osmanya_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1853,23 +1853,23 @@
       "regular": {
         "file": "caxton:noto_sans_phags_pa_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_phags_pa_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_phags_pa_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_phags_pa_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1878,23 +1878,23 @@
       "regular": {
         "file": "caxton:noto_sans_phoenician_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_phoenician_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_phoenician_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_phoenician_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1903,23 +1903,23 @@
       "regular": {
         "file": "caxton:noto_sans_rejang_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_rejang_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_rejang_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_rejang_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1928,23 +1928,23 @@
       "regular": {
         "file": "caxton:noto_sans_runic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_runic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_runic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_runic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1953,23 +1953,23 @@
       "regular": {
         "file": "caxton:noto_sans_samaritan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_samaritan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_samaritan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_samaritan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -1978,23 +1978,23 @@
       "regular": {
         "file": "caxton:noto_sans_saurashtra_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_saurashtra_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_saurashtra_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_saurashtra_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2003,23 +2003,23 @@
       "regular": {
         "file": "caxton:noto_sans_shavian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_shavian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_shavian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_shavian_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2028,23 +2028,23 @@
       "regular": {
         "file": "caxton:noto_sans_sinhala_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_sinhala_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_sinhala_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_sinhala_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2053,23 +2053,23 @@
       "regular": {
         "file": "caxton:noto_sans_sundanese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_sundanese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_sundanese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_sundanese_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2078,23 +2078,23 @@
       "regular": {
         "file": "caxton:noto_sans_syloti_nagri_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_syloti_nagri_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_syloti_nagri_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_syloti_nagri_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2103,23 +2103,23 @@
       "regular": {
         "file": "caxton:noto_sans_symbols_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_symbols_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_symbols_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_symbols_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2128,23 +2128,23 @@
       "regular": {
         "file": "caxton:noto_sans_symbols2_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_symbols2_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_symbols2_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_symbols2_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2153,23 +2153,23 @@
       "regular": {
         "file": "caxton:noto_sans_syriac_eastern_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_syriac_eastern_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_syriac_eastern_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_syriac_eastern_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2178,23 +2178,23 @@
       "regular": {
         "file": "caxton:noto_sans_syriac_estrangela_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_syriac_estrangela_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_syriac_estrangela_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_syriac_estrangela_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2203,23 +2203,23 @@
       "regular": {
         "file": "caxton:noto_sans_syriac_western_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_syriac_western_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_syriac_western_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_syriac_western_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2228,23 +2228,23 @@
       "regular": {
         "file": "caxton:noto_sans_tagalog_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_tagalog_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_tagalog_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_tagalog_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2253,23 +2253,23 @@
       "regular": {
         "file": "caxton:noto_sans_tagbanwa_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_tagbanwa_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_tagbanwa_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_tagbanwa_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2278,23 +2278,23 @@
       "regular": {
         "file": "caxton:noto_sans_tai_le_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_tai_le_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_tai_le_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_tai_le_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2303,23 +2303,23 @@
       "regular": {
         "file": "caxton:noto_sans_tai_tham_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_tai_tham_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_tai_tham_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_tai_tham_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2328,23 +2328,23 @@
       "regular": {
         "file": "caxton:noto_sans_tai_viet_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_tai_viet_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_tai_viet_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_tai_viet_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2353,23 +2353,23 @@
       "regular": {
         "file": "caxton:noto_sans_tamil_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_tamil_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_tamil_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_tamil_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2378,23 +2378,23 @@
       "regular": {
         "file": "caxton:noto_sans_telugu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_telugu_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_telugu_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_telugu_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2403,23 +2403,23 @@
       "regular": {
         "file": "caxton:noto_sans_thaana_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_thaana_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_thaana_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_thaana_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2428,23 +2428,23 @@
       "regular": {
         "file": "caxton:noto_sans_thai_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_thai_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_thai_medium.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_thai_black.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2453,23 +2453,23 @@
       "regular": {
         "file": "caxton:noto_sans_tibetan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_tibetan_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_tibetan_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_tibetan_bold.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2478,23 +2478,23 @@
       "regular": {
         "file": "caxton:noto_sans_tifinagh_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_tifinagh_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_tifinagh_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_tifinagh_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2503,23 +2503,23 @@
       "regular": {
         "file": "caxton:noto_sans_ugaritic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_ugaritic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_ugaritic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_ugaritic_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2528,23 +2528,23 @@
       "regular": {
         "file": "caxton:noto_sans_vai_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_vai_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_vai_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_vai_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     },
@@ -2553,23 +2553,23 @@
       "regular": {
         "file": "caxton:noto_sans_yi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "bold": {
         "file": "caxton:noto_sans_yi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5
+        "shadow_offset": 1
       },
 	  "italic": {
         "file": "caxton:noto_sans_yi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       },
 	  "bold_italic": {
         "file": "caxton:noto_sans_yi_regular.ttf",
 		"scale_factor": 1.25,
-        "shadow_offset": 0.5,
+        "shadow_offset": 1,
 		"the_font_designer_couldnt_be_assed_to_make_an_italic_variant_so_slant_the_text": 1048576000
       }
     }

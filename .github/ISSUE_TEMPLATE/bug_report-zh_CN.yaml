@@ -45,15 +45,14 @@ body:
     id: version
     attributes:
       label: Modern Font Pack - Caxton Edition版本
-      description: 你目前使用的是什么版本的Modern Font Pack - Caxton Edition？（例如1501，可从资源包标题中的四位数字中找到。如果您使用的版本未在此处列出，则您使用的版本已过期。请更新到最新版本并尝试再次重现该漏洞。）
+      description: 你目前使用的是什么版本的Modern Font Pack - Caxton Edition？（例如1302，可从资源包标题中的四位数字中找到。如果您使用的版本未在此处列出，则您使用的版本已过期。请更新到最新版本并尝试再次重现该漏洞。）
       options:
-        - 0801
-        - 0901
-        - 1101
-        - 1201
-        - 1301
-        - 1401
-        - 1501
+        - 0802
+        - 0902
+        - 1002
+        - 1102
+        - 1202
+        - 1302
     validations:
       required: true
   - type: input
